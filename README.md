@@ -2,5 +2,5 @@
 
 
 <p>
-<a href="https://github.com/sajalahmed" style="margin-right: 5px"><img src="https://github-readme-stats.vercel.app/api?username=sajalahmed&count_private=true" height="180" /></a> <a href="https://github.com/sajalahmed"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalahmed&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
+ <a href="https://github.com/sajalahmed"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalahmed&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
 </p>
